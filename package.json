@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "react-multi-select-component": "^4.3.4",
+    "react-multiselect-checkbox": "^2.9.0"
+  }
+}
